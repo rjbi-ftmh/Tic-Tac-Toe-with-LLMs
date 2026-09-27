@@ -1,3 +1,3 @@
-import pandaz as pd
+import pandas as pd
 
 print("Hello world")
